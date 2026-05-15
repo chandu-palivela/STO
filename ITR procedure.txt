@@ -1,0 +1,62 @@
+From all old companies:
+1. Any original docs
+2. Offer letters
+3. TDS certificate - Form 16A and 16B - for all the years
+4. Offer letters
+5. All increment letters
+6. Experience/Service letter
+7. Relieving letter
+8. All months pay slips (Download before LWD)
+9. Assets submitted proof
+10. NDA or exit clearance doc soft copy (may or mayn't exist)
+11. Registration acceptance email
+12. Bank salary credited statements
+13. ITC (Income Tax Computation Statements), get from employer after FnF settlement - Optional on employer - Login into below Accenture secpay portal
+13. FnF Statements
+
+Other process:
+1. Transfer PF account fast - Initiated by employee and approved by previous + new employee, after LWD
+2. Download UAN member passbook
+3. Check updated LWD in UAN/PF portal - Updated by previous employer or by employee after two months of LWD.
+4. Send mail to IT team from personal mail once IT assets are submitted.
+
+To company:
+1. All assets A. laptop B. All ID cards C. All other electronics D. All Bags
+
+Redeem:
+Benefit you points
+points to redeem points
+Get medical claim settled
+E-travel: AMEX card balance
+SNOW
+
+
+https://smartpay.allsectech.com/accenturelogin
+
+FY N to N+1, AY N+1 to N+2 (N-April to N+1 March)
+FY cycle 01-April-N to 31-March-N+1
+Get Form16|130/TDS from employer by June 15.
+File ITR by July 31st.
+File ITR corrections by 31st March.
+Get Accenture form16 for 2025-2026 by June 15.
+Download Tax computation sheet + comparison sheets and tax on payslip from Accenture secpay portal for last months on May-19.
+
+
+
+| Form Name | Type / Purpose | Brief Description & Example |
+|---|---|---|
+| Form 16 | Salary Tax Certificate | Issued by your employer. It details your total salary earned, tax deducted (TDS), and exemptions claimed. Example: Your HR emails this to you in June so you can see exactly how much tax was deducted from your monthly salary. |
+| Form 12BB | Investment Declaration | Submitted by you to your employer. It lists your planned tax-saving investments (like LIC, PPF, or house rent) to lower your monthly TDS. Example: You submit this in January with rent receipts to ensure your employer does not deduct extra tax. |
+| Form 26AS | Tax Credit Statement | Consolidated tax passport viewable on the e-filing portal. It tracks all tax deducted against your PAN by employers, banks, or buyers. Example: You log into the tax portal to verify that the TDS cut by your bank matches your actual interest earned. |
+| Form 16A | Non-Salary TDS Certificate | Issued by banks or clients for income other than salary. Example: Your fixed deposit earns high interest, and the bank issues this form showing the 10% TDS they deducted. |
+| Form 15G | TDS Avoidance (Under 60) | Declaration filed by individuals under 60 years old to prevent banks from deducting TDS on interest income, provided total income is below the taxable limit. Example: A non-working student submits this to the bank so no tax is cut from their savings interest. |
+| Form 15H | TDS Avoidance (Senior Citizens) | Declaration filed by senior citizens (aged 60 or above) to prevent banks from deducting TDS on interest income. Example: A retiree submits this to ensure their monthly pension interest is credited without any tax deductions. |
+
+| Form 16   | Salary Tax Certificate          | Issued by your employer. It details your total salary earned, tax deducted (TDS), and exemptions claimed. Example: Your HR emails this to you in June so you can see exactly how much tax was deducted from your monthly salary.                                          |
+| Form 16A  | Non-Salary TDS Certificate      | Issued by banks, clients, or other deductors for income other than salary. It shows TDS deducted on interest, professional fees, commission, rent, etc. Example: Your fixed deposit earns high interest, and the bank issues this form showing the 10% TDS they deducted. |
+| Form 16B  | Property Sale TDS Certificate   | Issued by the buyer of a property to the seller when TDS is deducted under Section 194-IA on sale of immovable property. Example: You sell a flat worth ₹70 lakh, and the buyer deducts 1% TDS and provides Form 16B as proof.                                            |
+| Form 12BB | Investment Declaration          | Submitted by you to your employer. It lists your planned tax-saving investments (like LIC, PPF, or house rent) to lower your monthly TDS. Example: You submit this in January with rent receipts to ensure your employer does not deduct extra tax.                       |
+| Form 26AS | Tax Credit Statement            | Consolidated tax passport viewable on the e-filing portal. It tracks all tax deducted against your PAN by employers, banks, or buyers. Example: You log into the tax portal to verify that the TDS cut by your bank matches your actual interest earned.                  |
+| Form 15G  | TDS Avoidance (Under 60)        | Declaration filed by individuals under 60 years old to prevent banks from deducting TDS on interest income, provided total income is below the taxable limit. Example: A non-working student submits this to the bank so no tax is cut from their savings interest.       |
+| Form 15H  | TDS Avoidance (Senior Citizens) | Declaration filed by senior citizens (aged 60 or above) to prevent banks from deducting TDS on interest income. Example: A retiree submits this to ensure their monthly pension interest is credited without any tax deductions.                                          |
+
